@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  user-select: none;
+}
+img {
+  user-select: none;
+  -webkit-user-drag: none;
+}

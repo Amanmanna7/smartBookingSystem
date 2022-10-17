@@ -1,0 +1,4 @@
+Step1: Goto Frontend folder, Open a Cmd and type `npm install`.
+Step2: After its done with installing, type `npm start`
+Step3: Goto backend Folder, open a Cmd and type `npm install`
+Step4: After its Done with installing, type `npm run dev`
